@@ -1,4 +1,4 @@
-# MemoSift 🧠
+# MemoSift 
 
 **Token-efficient, verifiable memory layer for AI agents.**
 
